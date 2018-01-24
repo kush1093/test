@@ -3,3 +3,4 @@ if(True):
 	print("Yay")
 else:
 	print("Noo")
+	print ("")
