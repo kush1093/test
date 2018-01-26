@@ -3,5 +3,5 @@ if(True):
 	print("Yay")
 else:
 	print ("haha")
-	print("Noo")
-kushal
+	print("Noooooooooo")
+kushal-kirti
