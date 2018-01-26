@@ -1,6 +1,6 @@
 print ("hi there")
 if(True):
-	print("Yay")
+	print("Yayyyyyyyyyyyyy")
 else:
 	print ("haha")
 	print("Noo")
