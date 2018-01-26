@@ -4,4 +4,3 @@ if(True):
 else:
 	print ("haha")
 	print("Noo")
-	print ("")
