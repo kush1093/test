@@ -8,3 +8,4 @@ if(__name__ == "__main__"):
 	print ("Testing testing")
 	a = func()
 	print (a)
+    print ("from t2-folder")
