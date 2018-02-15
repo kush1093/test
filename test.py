@@ -21,7 +21,7 @@ if(__name__ == "__main__"):
     #print ("from t2-folder")
 
     #print("In Boulder")
-    #print("with new SSH keys")
+    #print("with new SSH")
 
 
     # removed the line in branch1 
