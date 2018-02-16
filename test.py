@@ -7,8 +7,8 @@ def func():
     try:
         #a=pow(2,100000000000)
         a=1/0 
-    except ArithmeticError:
-        print("yay")
+    except error:
+        prinr("yay")
     except ZeroDivisionError:
         print("yo yo honey singh")
     except Exception as e:
