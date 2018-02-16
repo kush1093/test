@@ -35,3 +35,4 @@ if(__name__ == "__main__"):
     # yo yo Honeysingh
     #
     # edited in github
+    # friday-weekend
