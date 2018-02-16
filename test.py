@@ -24,3 +24,10 @@ if(__name__ == "__main__"):
     #print("with new SSH")
     #
     #
+	print ("Testing testing")
+	a = func()
+	print (a)
+    print ("from t2-folder")
+
+
+    # this is something that i have done in home branch
