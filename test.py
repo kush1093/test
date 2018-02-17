@@ -33,13 +33,9 @@ if(__name__ == "__main__"):
     # this is something that i have done in home branch
     # Kushal raja Mestri
     # yo yo
+    # Name kushal 
     # dummy
     # edited in github
     # friday-weekend
-    # 1
-    # 2
-    # 3
-    # Name 
     # Name
 
-    # 1
